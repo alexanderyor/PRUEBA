@@ -1,2 +1,4 @@
----- etiqueta para rpobrar el github 
-'''npm install'''
+- etiqueta para rpobrar el github:
+
+  ```installa```
+  
