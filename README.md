@@ -2,3 +2,5 @@
 
   ```installa```
   
+usando git hub 
+git
